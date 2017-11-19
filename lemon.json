@@ -1,0 +1,17 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint-plugin-prettier",
+    "tslint-config-airbnb",
+    "tslint:all",
+    "tslint:recommended",
+    "tslint-plugin-blank-line",
+    "tslint-config-prettier"
+  ],
+  "rules": {
+    "prettier": true,
+    "blank-line": true,
+    "completed-docs": true,
+    "no-empty": false
+  }
+}

@@ -21,6 +21,7 @@
       "property-declaration",
       "member-variable-declaration"
     ],
-    "no-floating-promises": false
+    "no-floating-promises": false,
+    "await-promise": false
   }
 }

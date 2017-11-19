@@ -3,8 +3,8 @@
   "extends": [
     "tslint-plugin-prettier",
     "tslint-config-airbnb",
-    "tslint:all",
     "tslint:recommended",
+    "tslint:all",
     "tslint-plugin-blank-line",
     "tslint-config-prettier"
   ],
@@ -12,6 +12,7 @@
     "prettier": true,
     "blank-line": true,
     "completed-docs": false,
-    "no-empty": false
+    "no-empty": false,
+    "no-any": true
   }
 }

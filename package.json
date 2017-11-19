@@ -1,7 +1,7 @@
 {
   "name": "tslint-config-lemon",
   "version": "0.0.0-development",
-  "main": "index.js",
+  "main": "lemon.json",
   "license": "MIT",
   "dependencies": {
     "tslint-config-airbnb": "^5.3.1",

@@ -14,7 +14,7 @@
     "completed-docs": false,
     "no-empty": false,
     "no-any": true,
-    "typedef": false,
+    "typedef": [true, "call-signature", "parameter", "property-declaration"],
     "no-floating-promises": false,
     "await-promise": false
   }

@@ -17,7 +17,8 @@
     "url": "https://github.com/Yellowiki/tslint-config-lemon"
   },
   "scripts": {
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "semantic-release":
+      "semantic-release pre && npm publish && semantic-release post"
   },
   "devDependencies": {
     "semantic-release": "^8.2.0"

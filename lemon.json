@@ -11,7 +11,7 @@
   "rules": {
     "prettier": true,
     "blank-line": true,
-    "completed-docs": true,
+    "completed-docs": false,
     "no-empty": false
   }
 }

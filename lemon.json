@@ -16,6 +16,11 @@
     "no-any": true,
     "typedef": [true, "call-signature", "parameter", "property-declaration"],
     "no-floating-promises": false,
-    "await-promise": false
+    "await-promise": false,
+    "only-arrow-functions": [
+      true,
+      "allow-declarations",
+      "allow-named-functions"
+    ]
   }
 }

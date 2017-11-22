@@ -21,6 +21,9 @@
       true,
       "allow-declarations",
       "allow-named-functions"
-    ]
+    ],
+    "strict-boolean-expressions": false,
+    "no-unused-variable": false,
+    "import-name": false
   }
 }

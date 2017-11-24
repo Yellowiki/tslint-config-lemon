@@ -24,6 +24,7 @@
     ],
     "strict-boolean-expressions": false,
     "no-unused-variable": false,
-    "import-name": false
+    "import-name": false,
+    "object-shorthand-properties-first": false
   }
 }

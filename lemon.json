@@ -26,6 +26,7 @@
     "no-unused-variable": false,
     "import-name": false,
     "object-shorthand-properties-first": false,
-    "newline-before-return": false
+    "newline-before-return": false,
+    "interface-name": false
   }
 }

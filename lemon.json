@@ -27,6 +27,12 @@
     "import-name": false,
     "object-shorthand-properties-first": false,
     "newline-before-return": false,
-    "interface-name": false
+    "interface-name": false,
+    "variable-name": [
+      true,
+      "ban-keywords",
+      "check-format",
+      "allow-leading-underscore"
+    ]
   }
 }

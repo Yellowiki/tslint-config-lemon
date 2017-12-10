@@ -30,6 +30,7 @@
       "ban-keywords",
       "check-format",
       "allow-leading-underscore"
-    ]
+    ],
+    "typedef": false
   }
 }
